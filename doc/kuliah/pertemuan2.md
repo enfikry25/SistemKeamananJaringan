@@ -1,8 +1,6 @@
 Resume Pertemuan 2 Sistem Keamanan Jaringan
 
-<p align="center"> 
-<img src="../img/KJa2.jpg" width="400px"> 
-</p>
+
 
 Latar Belakang Masalah
 
