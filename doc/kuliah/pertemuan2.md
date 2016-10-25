@@ -1,6 +1,7 @@
 Resume Pertemuan 2 Sistem Keamanan Jaringan
 
- 
+ <p align="center"> <img src="../../img/KJ2.jpg" width="400px"> </p>
+
 Latar Belakang Masalah
 
 Setelah kita mempelajari Sistem Keamanan Jaringan, kemanan jaringan ini sangat penting karena banyak orang yang bisa membobol atau menyerang jaringan kita. Sehingga jaringan yang kita gunakan bisa eror atau tidak konek, karena dibobol atau di serang oleh orang yang tidak bertanggung jawab.
@@ -24,15 +25,15 @@ ARP Table pada jaringan berfungsi untuk mentransformasikan IP Address yang ada m
 
 Kelemahan DNS pada jaringan ini adalah alamat domain yang digunakan bisa dipalsukan menggunakan IP Address yang berbeda.
 
-Cara mengecek MAC Address pada IP Address yang digunakan cukup mudah, kita  memerlukan Command Prompt dan memasukkan coding &quot;  **arp –a**&quot; lalu Enter, nanti akan muncul IP Address dan MAC Address yang digunakan.
+Cara mengecek MAC Address pada IP Address yang digunakan cukup mudah, kita  memerlukan Command Prompt dan memasukkan coding &quot;  **arp â€“a**&quot; lalu Enter, nanti akan muncul IP Address dan MAC Address yang digunakan.
 
 Cara untuk mengetahui IP Address pada domain seperti Web, kita hanya memerlukan Command Prompt untuk mengeceknya. Caranya cukup mudah dengan memasukkan coding pada Command Prompt &quot;  **nslookup namaweb**&quot; lalu Enter, nanti akan muncul nama domain dan IP Address yang digunakan.
 
 Untuk cara melakukan vulnerabilities pada Python
 
-1. Mengginstall Python dan parameter – parameter.
+1. Mengginstall Python dan parameter â€“ parameter.
 
-2. Diperlukan Scapy dan lain – lain.
+2. Diperlukan Scapy dan lain â€“ lain.
 
 Kemudian cek Python sudah terinstall atau belum dengan coding &quot;  **python**&quot; lalu Enter, kalau muncul versi python maka python berhasil diinstal. Kalau kita menggunakan Linux atau Mac, tidak perlu lagi menginstall Python karena sudah terinstall secara default.
 
