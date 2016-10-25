@@ -1,6 +1,9 @@
 Resume Pertemuan 2 Sistem Keamanan Jaringan
 
- 
+<p align="center"> 
+<img src="../../img/KJa2.jpg" width="400px"> 
+</p>
+
 Latar Belakang Masalah
 
 Setelah kita mempelajari Sistem Keamanan Jaringan, kemanan jaringan ini sangat penting karena banyak orang yang bisa membobol atau menyerang jaringan kita. Sehingga jaringan yang kita gunakan bisa eror atau tidak konek, karena dibobol atau di serang oleh orang yang tidak bertanggung jawab.
