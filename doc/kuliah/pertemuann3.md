@@ -2,8 +2,7 @@ Resume Pertemuan 3 Keamanan Jaringan
 
  <p align="center"> 
 <img src="../../img/kj3.png" width="400px"> 
-</p>
- 
+</p> 
 
 Latar Belakang Masalah
 
