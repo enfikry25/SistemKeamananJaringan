@@ -17,16 +17,16 @@ b. OS khusus firewall<br>
 7.	pfSense<br>
 8.	Mikrotik<br>
 -------
-*Kesimpulan<br>
+*Kesimpulan**<br>
 Jadi Fiirewall bisa diartikan sebagai atau perangkat yang mampu melakukan proses monitor dan juga kontrol dari lalu lintas jaringan komputer baik itu data yang masuk atau data jaringan yang keluar.<br>
-*Saran<br>
+*Saran**<br>
 Untuk memaahami lebih jelasnya alangkah lebih baiknya jika kita mencari di buku-buku yang terpercaya atau melakukan praktikum mandiri.<br>
 -------
-•	Nama : Entol Achmad Fikry Ilhamy<br>
-•	NPM : 1144115<br>
-•	Kelas : 3C<br>
-•	Prodi : D4 Teknik Informatika<br>
-•	Kampus : Politeknik Pos Indonesia<br>
+>•	Nama : Entol Achmad Fikry Ilhamy<br>
+>•	NPM : 1144115<br>
+>•	Kelas : 3C<br>
+>•	Prodi : D4 Teknik Informatika<br>
+>•	Kampus : Politeknik Pos Indonesia<br>
 -------
 Link Matakuliah : http://kampus.awangga.net/assignments/keamananjaringan2016<br>
 Link Github : https://github.com/enfikry25/SistemKeamananJaringan<br>
