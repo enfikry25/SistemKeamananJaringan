@@ -43,15 +43,15 @@ Untuk memaahami lebih jelasnya alangkah lebih baiknya jika kita mencari di buku-
 
 -------
 
-•	Nama : Entol Achmad Fikry Ilhamy
+•	Nama : Entol Achmad Fikry Ilhamy<br>
 •	NPM : 1144115
-•	Kelas : 3C
+•	Kelas : 3C<br>
 •	Prodi : D4 Teknik Informatika
-•	Kampus : Politeknik Pos Indonesia
+•	Kampus : Politeknik Pos Indonesia<br>
 
 -------
 
-Link Matakuliah : http://kampus.awangga.net/assignments/keamananjaringan2016
+Link Matakuliah : http://kampus.awangga.net/assignments/keamananjaringan2016<br>
 Link Github : https://github.com/enfikry25/SistemKeamananJaringan
 
 ##Referensi :
